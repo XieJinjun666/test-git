@@ -7,5 +7,6 @@ public class TestGit {
         System.out.println("hello git3");
         System.out.println("dev");
         System.out.println("fix");
+        System.out.println("hello github");
     }
 }
